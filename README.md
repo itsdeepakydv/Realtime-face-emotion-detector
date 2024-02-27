@@ -7,3 +7,6 @@ To execute the real-time emotion detection system, follow these steps:
 5) Once the script is executed, the system will begin capturing video from the webcam and analyzing facial expressions in real-time.
 
 Ensure that the webcam is properly connected and configured for the system to capture video input accurately.
+
+![Screenshot (74)](https://github.com/itsdeepakydv/Realtime-face-emotion-detector/assets/114461345/74d03861-e871-4d61-8af8-f224d2d0ceda)
+
